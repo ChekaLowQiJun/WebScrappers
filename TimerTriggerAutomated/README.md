@@ -1,0 +1,1 @@
+This is a simple beginner level Web Scrapper using the default Azure Function Timer Trigger for automation. The Web Scrapper will run every 5 seonds and create a .csv file containing the scrapped data.
